@@ -1,4 +1,4 @@
-# Tugas Web Pertemuan 2 Landing Page
+# Tugas Rutin 2 Pemrograman Web Landing Page
 
 Repository ini berisi Tugas Rutin Pertemuan 2 mata kuliah Pemrograman Web.
 
