@@ -1,4 +1,4 @@
-# Tugas Web Pertemuan 2
+# Tugas Web Pertemuan 2 Landing Page
 
 Repository ini berisi Tugas Rutin Pertemuan 2 mata kuliah Pemrograman Web.
 
@@ -20,3 +20,7 @@ Tugas ini merupakan pengembangan landing page dengan menggunakan HTML dan CSS. C
 ## Mata Kuliah
 
 Pemrograman Web
+
+## Link Demo
+
+🌐 [Buka Website Tugas 2 Landing Page](https://moudyemellin-dev.github.io/pemrograman-web/Pertemuan%202/)
